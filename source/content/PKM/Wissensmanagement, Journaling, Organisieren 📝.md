@@ -1,0 +1,3 @@
+Vor Ewigkeiten habe ich mit Bullet Journaling angefangen und liebe Stift und Papier - aber auch digital hat viele Vorteile und so fühlte ich mich lange dazwischen hin und her gerissen. Vor gut 2 Jahren habe ich das Buch "Building a Second Brain" von Thiago Forte gelesen und bin zum Fan geworden. Jetzt setze ich meine eigene Adaption aus beidem (und ein Stückchen Getting things done und Atomic Habits und und und) um und bin sehr glücklich damit. Ich habe quasi meinen Planerfrieden gefunden ❤️
+
+#second_brain #bullet_journaling #reflektion

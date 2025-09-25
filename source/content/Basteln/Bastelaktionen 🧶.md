@@ -1,0 +1,3 @@
+Im dritten Teil meines Lebens - quasi als Ausgleich zum logischen und sozialen, bin ich eine große Basteltante. Ob häkeln, nähen, sticken, malen oder Postkarten basteln oder oder oder. Eigentlich kommt immer das dran, worauf ich gerade Lust habe. Denn auch hier gilt - etwas in der Hand zu halten, was ich selbst gebaut habe, ist einfach schön :) Ich werde also auch hin und wieder von meinen neusten Projekten berichten oder coole Tutorials verlinken.
+
+#häkeln #sticken #basteln #malen

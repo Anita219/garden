@@ -1,0 +1,1 @@
+Hinterlasse den Ort immer besser, als du ihn vorgefunden hast.
