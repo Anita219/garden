@@ -43,3 +43,5 @@ Das ist die Variante für Seminare und ähnliches Kontexte. Hier wollen wir den 
 Und? Hast du jetzt auch Lust auf Toffifees? Oder sogar eine Toffifee Retro? Dann probier sie doch mal aus und berichte mir davon :)
 
 Viel Spaß beim ausprobieren!
+
+#methods 
