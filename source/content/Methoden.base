@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.tags.contains("methods")
+views:
+  - type: table
+    name: Methodenkasten

@@ -20,8 +20,6 @@ Hier sind noch andere Kategorien, die du hier findest:
 * [[Game Changer]]
 * [[Methodenkasten 🃏]] 
 
-
-
 So ungefähr fühl ich mich übrigens beim Erstellen und Teilen dieses Blogs:
 ![Do it! by invisiblebread](https://invisiblebread.com/comics/2016-12-16-do-it.png)
 

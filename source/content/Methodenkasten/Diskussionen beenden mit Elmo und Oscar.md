@@ -23,3 +23,6 @@ Ist man online unterwegs, kann man dabei einfach in den Chat schreiben oder ein 
 ![[Pasted image 20240820144428.png]]
 
 Deine eigenen kannst du dir [hier](https://www.linkedin.com/posts/helloagile_elmo-helloagile-elmoundoscar-activity-7092428833726836737-eqh4/?originalSubdomain=de) besorgen. 
+
+
+#methods
