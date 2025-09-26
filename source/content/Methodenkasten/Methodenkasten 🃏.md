@@ -1,6 +1,6 @@
 Hier findest du diverse Methoden, die ich über die Zeit gesammelt habe :)
 
-![[Methoden.base]]
-
+* [[Diskussionen beenden mit Elmo und Oscar]]
+* [[Toffifee Retro]]
 
 
