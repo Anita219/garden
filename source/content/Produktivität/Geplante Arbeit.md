@@ -1,3 +1,13 @@
+---
+title: planned work
+tags:
+  - planned_work
+  - unplanned_work
+  - distractions
+  - protect_your_time
+  - productivity
+---
+
 Es gibt viele Faktoren, die Entwickler verlangsamen, wie [Jack Hannah in diesem LinkedIn Post hier formuliert](https://www.linkedin.com/feed/update/urn:li:activity:7216499862798827522/). Der Faktor, der mich am meisten davon anspricht, ist **abgelenkt sein**. 
 
 In meiner Erfahrung, ist es der größte Faktor, der mich von der Arbeit abhält. Dabei gibt es innere und äußere Ablenkung. Die innere Ablenkung ist die, die dafür sorgt, dass die Wohnung in einer Klausurphase am saubersten ist. Hier geht es um die äußere Ablenkung.
@@ -15,6 +25,3 @@ Das reaktive Team haben wir extra eingerichtet um die Zeit der anderen Track Tea
 Durch den Schutz vor äußeren Ablenkung, habe ich den Kopf frei um mich um meine geplante Arbeit zu kümmern, was auch gleichzeitig meine innere Ablenkung reduziert. Ich habe keine 20 Dinge im Kopf, die ich noch tun muss. Und wenn ich gerade zum reaktiven Team gehöre, fühl ich mich nützlich, denn ich weiß, dass ich gerade das Schutzschild für meine Kollegen bin. Und so habe ich während meiner 8 Stunde Arbeitszeit so gut es geht nur wenige Dinge, an die ich gleichzeitig denken muss. Der Effekt fasziniert mich immer wieder, ich war noch sie so produktiv wie in diesem Job - und hab mich auch noch nie selbst so produktiv gefühlt.
 
 Ich kann also nur jedem Team empfehlen, die eigenen Zeitfresser zu finden und gemeinsam die geplante Arbeit zu beschützen.
-
-___
-#planned_work #unplanned_work #distractions #protect_your_time #productivity

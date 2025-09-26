@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodenkasten/Methodenkasten 🃏.md",
+                "file": "Produktivität/Geplante Arbeit.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Methodenkasten 🃏"
+              "title": "Geplante Arbeit"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodenkasten/Methodenkasten 🃏.md",
+                "file": "Produktivität/Geplante Arbeit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Methodenkasten 🃏"
+              "title": "Outline of Geplante Arbeit"
             }
           }
         ],
@@ -170,8 +170,8 @@
   },
   "active": "e0341499c5383542",
   "lastOpenFiles": [
-    "index.md",
     "Methodenkasten/Methodenkasten 🃏.md",
+    "index.md",
     "Methodenkasten/Diskussionen beenden mit Elmo und Oscar.md",
     "Methoden.base",
     "Methodenkasten/Toffifee Retro.md",
