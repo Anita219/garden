@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Testing Brain",
-    pageTitleSuffix: "test, don't hope",
+    pageTitleSuffix: " - testing brain",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -21,7 +21,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Shadows Into Light",
+        header: "Indie Flower",
         body: "Didact Gothic",
         code: "Victor Mono",
       },
@@ -34,7 +34,7 @@ const config: QuartzConfig = {
           dark: "#2b2b2b",
           secondary: "#e86308",
           tertiary: "#ffa835",
-          highlight: "#063d34",
+          highlight: "#fffdda",
           textHighlight: "#fde5ae",
         },
         darkMode: {
